@@ -17,5 +17,9 @@
     "sqlite": "^4.0.9",
     "sqlite3": "^4.2.0",
     "swr": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.6",
+    "typescript": "^3.9.3"
   }
 }
